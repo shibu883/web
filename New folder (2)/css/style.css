@@ -1,0 +1,23 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing: border-box;
+
+}
+.navbar-nav a{
+	font-size: 20px;
+
+}
+.navbar-nav a:hover{
+	background:blue;
+	color: #fff;
+	border-radius: 10px;
+}
+
+.carousel-caption{
+	text-align: left;
+}
+
+.card img{
+	border-radius: 50%;
+}
